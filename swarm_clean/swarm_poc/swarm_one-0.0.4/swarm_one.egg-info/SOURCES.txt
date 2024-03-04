@@ -1,0 +1,14 @@
+MANIFEST.in
+README.md
+requirements.txt
+setup.cfg
+setup.py
+swarm_one/__init__.py
+swarm_one/hugging_face.pye
+swarm_one/pytorch.pye
+swarm_one/tensorflow.pye
+swarm_one.egg-info/PKG-INFO
+swarm_one.egg-info/SOURCES.txt
+swarm_one.egg-info/dependency_links.txt
+swarm_one.egg-info/requires.txt
+swarm_one.egg-info/top_level.txt

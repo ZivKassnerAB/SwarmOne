@@ -1,0 +1,5 @@
+    PATHS = {
+        "train": ("/home/user/workspace/swarmone/swarm_poc/data/train_subset", '/home/user/workspace/swarmone/swarm_poc/data/train_subset.json'),
+        "val": ("/home/user/workspace/swarmone/swarm_poc/data/val_subset", '/home/user/workspace/swarmone/swarm_poc/data/val_subset.json'),
+    }
+
